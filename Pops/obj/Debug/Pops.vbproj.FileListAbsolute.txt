@@ -1,0 +1,17 @@
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\bin\Debug\Pops.exe.config
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\obj\Debug\Pops.Resources.resources
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\obj\Debug\Pops.Pops.resources
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\obj\Debug\Pops.vbproj.GenerateResource.Cache
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\bin\Debug\Pops.exe
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\bin\Debug\Pops.pdb
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\bin\Debug\Pops.xml
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\obj\Debug\Pops.exe
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\obj\Debug\Pops.xml
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\obj\Debug\Pops.pdb
+c:\users\mirzmaj\documents\visual studio 2013\Projects\Pops\Pops\obj\Debug\Pops.Sk.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.BMTron.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.cnn.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.SDKU.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.vbprojResolveAssemblyReference.cache
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.MainScreen.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.Main.resources

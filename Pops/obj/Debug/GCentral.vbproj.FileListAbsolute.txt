@@ -1,0 +1,21 @@
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\bin\Debug\Pops.exe.config
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.exe
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.xml
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Pops\Pops\obj\Debug\Pops.pdb
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.vbprojResolveAssemblyReference.cache
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.vbproj.GenerateResource.Cache
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\bin\Debug\GCentral.exe.config
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.BMTron.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.cnn.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.MainScreen.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.Resources.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.Pops.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.SDKU.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.Sk.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.Main.resources
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.xml
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\bin\Debug\GCentral.exe
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\bin\Debug\GCentral.pdb
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\bin\Debug\GCentral.xml
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.exe
+C:\Users\Majeed\Desktop\Stats Projects\Pops\Pops\obj\Debug\GCentral.pdb
