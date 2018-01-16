@@ -1,9 +1,6 @@
 # GCentral
-A collection of games created/recreated by me
+A collection of original and reimagined games created by me. 
 
-for exe see: GCentral/Pops/bin/Debug/GCentral.exe
-
-TODO:
-Reorganize code
-
-Create Help popup explaining how to play each game
+## Installation
+Clone this repository then lanch the program by running the exe located at 
+```GCentral/Pops/bin/Debug/GCentral.exe```
